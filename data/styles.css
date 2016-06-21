@@ -7,6 +7,8 @@
   text-align:center;
   line-height:normal;
 }
+.placeholder {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -47,4 +49,11 @@
 }
 ._文本段落 {
   text-align:left;
+}
+._文本段落1 {
+  text-align:left;
+}
+._形状 {
+}
+._水平线 {
 }
