@@ -44,3 +44,32 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u3_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:480px;
+  height:60px;
+  background:inherit;
+  background-color:rgba(215, 215, 215, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u3 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:480px;
+  height:60px;
+}
+#u4 {
+  position:absolute;
+  left:2px;
+  top:22px;
+  width:476px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
