@@ -7,6 +7,12 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
 .placeholder {
 }
 .primary_button {
@@ -49,6 +55,8 @@
 }
 ._文本段落 {
   text-align:left;
+}
+._流程形状 {
 }
 ._文本段落1 {
   text-align:left;
